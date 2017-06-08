@@ -57,8 +57,7 @@ import java.util.List;
  * Example of experimental study based on solving the ZDT problems with algorithms NSGAII,
  * SPEA2, and SMPSO
  *
- * This experiment assumes that the reference Pareto front are not known, so the names of files containing
- * them and the directory where they are located must be specified.
+ * This experiment assumes that the reference Pareto front are not known.
  *
  * Six quality indicators are used for performance assessment.
  *
